@@ -1,8 +1,8 @@
 class Allx < Formula
   desc "Run Salesforce Apex locally on the JVM"
   homepage "https://github.com/colatusso/alloyx"
-  url "https://github.com/colatusso/alloyx/releases/download/v0.2.4/allx-0.2.4.zip"
-  sha256 "753e3897c8c66c1acab1d1d3b4f0b2dfffe59ba463393d30396b1c845866aa84"
+  url "https://github.com/colatusso/alloyx/releases/download/v0.2.6/allx-0.2.6.zip"
+  sha256 "0d822b817b8d5d7a3ca6b755d49fd7f4718f066553facd4e5feb4bb8f695ef29"
   license "AGPL-3.0-only"
 
   depends_on "openjdk@21"
